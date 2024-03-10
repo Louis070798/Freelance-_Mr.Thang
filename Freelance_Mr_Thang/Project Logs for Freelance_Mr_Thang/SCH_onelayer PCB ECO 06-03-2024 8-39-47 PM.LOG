@@ -1,0 +1,409 @@
+Change Component Designator: OldDesignator=XF? NewDesignator=XF2
+Added Component: Designator=*1(Relay HF46F)
+Added Component: Designator=D1(WL-TMRC_3mm)
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/led/datasheet/151031SS04000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "635nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Super Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "160mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "151031SS04000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "640nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "January 2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "40deg"; VariantName = "[No Variations]"
+Added Component: Designator=D2(WL-TMRC_3mm)
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/led/datasheet/151031SS04000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "635nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Super Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "160mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "151031SS04000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "640nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "January 2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "40deg"; VariantName = "[No Variations]"
+Added Component: Designator=D3(WL-TMRC_3mm)
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/led/datasheet/151031SS04000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "635nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Super Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "160mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "151031SS04000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "640nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "January 2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "40deg"; VariantName = "[No Variations]"
+Added Component: Designator=D4(WL-TMRC_3mm)
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/led/datasheet/151031SS04000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "635nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Super Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "160mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "151031SS04000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "640nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "January 2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "40deg"; VariantName = "[No Variations]"
+Added Component: Designator=J1(691236510003)
+Add component (AddParameter): Name = "Application"; Value = "Rising Cage Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691236510003.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691236510003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30 to +120degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB/Cable/Panel"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Feburary 2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current [UL]"; Value = "20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage [UL]"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J2(691236510003)
+Add component (AddParameter): Name = "Application"; Value = "Rising Cage Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691236510003.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691236510003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30 to +120degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB/Cable/Panel"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Feburary 2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current [UL]"; Value = "20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage [UL]"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J3(691242510004)
+Add component (AddParameter): Name = "Application"; Value = "Rising Cage Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691242510004.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691242510004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30 to +120degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB/Cable/Panel"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Feburary 2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current [UL]"; Value = "14A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage [UL]"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J4(691236510003)
+Add component (AddParameter): Name = "Application"; Value = "Rising Cage Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691236510003.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691236510003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30 to +120degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB/Cable/Panel"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Feburary 2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current [UL]"; Value = "20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage [UL]"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J5(691236510002)
+Add component (AddParameter): Name = "Application"; Value = "Rising Cage Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691236510002.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691236510002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30 to +120degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB/Cable/Panel"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Feburary 2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current [UL]"; Value = "20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage [UL]"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J6(691236510002)
+Add component (AddParameter): Name = "Application"; Value = "Rising Cage Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691236510002.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691236510002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30 to +120degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB/Cable/Panel"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Feburary 2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current [UL]"; Value = "20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage [UL]"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J7(691242510007)
+Add component (AddParameter): Name = "Application"; Value = "Rising Cage Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691242510007.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691242510007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30 to +120degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB/Cable/Panel"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Feburary 2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current [UL]"; Value = "14A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage [UL]"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J8(691242510004)
+Add component (AddParameter): Name = "Application"; Value = "Rising Cage Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691242510004.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691242510004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30 to +120degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB/Cable/Panel"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Feburary 2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current [UL]"; Value = "14A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage [UL]"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J9(691236510003)
+Add component (AddParameter): Name = "Application"; Value = "Rising Cage Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691236510003.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691236510003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30 to +120degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB/Cable/Panel"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Feburary 2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current [UL]"; Value = "20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage [UL]"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J10(691242510004)
+Add component (AddParameter): Name = "Application"; Value = "Rising Cage Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691242510004.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691242510004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30 to +120degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB/Cable/Panel"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Feburary 2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current [UL]"; Value = "14A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage [UL]"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J11(691236510003)
+Add component (AddParameter): Name = "Application"; Value = "Rising Cage Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691236510003.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691236510003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30 to +120degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB/Cable/Panel"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Feburary 2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current [UL]"; Value = "20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage [UL]"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J12(691242510004)
+Add component (AddParameter): Name = "Application"; Value = "Rising Cage Clamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691242510004.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "691242510004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modularity"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30 to +120degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB/Cable/Panel"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "Feburary 2021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current [UL]"; Value = "14A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage [UL]"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=XF1(696309001002)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/696309001002.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fuse Size"; Value = "5x20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "696309001002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30 to +120degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "March 2021"; VariantName = "[No Variations]"
+Added Component: Designator=XF3(696309001002)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/696309001002.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fuse Size"; Value = "5x20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "696309001002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30 to +120degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "March 2021"; VariantName = "[No Variations]"
+Added Component: Designator=XF4(696309001002)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/696309001002.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fuse Size"; Value = "5x20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "696309001002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30 to +120degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "March 2021"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+ Pin=J4-3
+Added Pin To Net: NetName=+ Pin=J10-4
+Added Net: Name=+
+Added Pin To Net: NetName=+V IN Pin=J12-4
+Added Net: Name=+V IN
+Added Pin To Net: NetName=- Pin=J4-1
+Added Pin To Net: NetName=- Pin=J10-3
+Added Net: Name=-
+Added Pin To Net: NetName=-V IN Pin=J12-3
+Added Net: Name=-V IN
+Added Pin To Net: NetName=ACT Pin=J10-1
+Added Pin To Net: NetName=ACT Pin=J10-2
+Added Net: Name=ACT
+Added Pin To Net: NetName=AI1 Pin=J2-2
+Added Net: Name=AI1
+Added Pin To Net: NetName=AI2 Pin=J2-3
+Added Net: Name=AI2
+Added Pin To Net: NetName=BI1 Pin=J3-4
+Added Net: Name=BI1
+Added Pin To Net: NetName=BI2 Pin=J3-3
+Added Net: Name=BI2
+Added Pin To Net: NetName=BI3 Pin=J3-2
+Added Net: Name=BI3
+Added Pin To Net: NetName=BI4 Pin=J3-1
+Added Net: Name=BI4
+Added Pin To Net: NetName=COM Pin=J2-1
+Added Net: Name=COM
+Added Pin To Net: NetName=CR Pin=J1-1
+Added Net: Name=CR
+Added Pin To Net: NetName=D+ Pin=J4-2
+Added Net: Name=D+
+Added Pin To Net: NetName=MPU+ Pin=J11-1
+Added Net: Name=MPU+
+Added Pin To Net: NetName=MPU- Pin=J11-2
+Added Net: Name=MPU-
+Added Pin To Net: NetName=PM GND Pin=J1-2
+Added Net: Name=PM GND
+Added Pin To Net: NetName=PM IN Pin=J1-3
+Added Net: Name=PM IN
+Added Pin To Net: NetName=SCR Pin=J11-3
+Added Net: Name=SCR
+Added Pin To Net: NetName=V+ Pin=J12-1
+Added Net: Name=V+
+Added Pin To Net: NetName=V- Pin=J12-2
+Added Net: Name=V-
+Added Member To Class: ClassName=SCH_onelayer Member=Component *1 Relay HF46F
+Added Member To Class: ClassName=SCH_onelayer Member=Component D1 Super Red, 2V, 40deg
+Added Member To Class: ClassName=SCH_onelayer Member=Component D2 Super Red, 2V, 40deg
+Added Member To Class: ClassName=SCH_onelayer Member=Component D3 Super Red, 2V, 40deg
+Added Member To Class: ClassName=SCH_onelayer Member=Component D4 Super Red, 2V, 40deg
+Added Member To Class: ClassName=SCH_onelayer Member=Component J1 691236510003
+Added Member To Class: ClassName=SCH_onelayer Member=Component J2 691236510003
+Added Member To Class: ClassName=SCH_onelayer Member=Component J3 691242510004
+Added Member To Class: ClassName=SCH_onelayer Member=Component J4 691236510003
+Added Member To Class: ClassName=SCH_onelayer Member=Component J5 691236510002
+Added Member To Class: ClassName=SCH_onelayer Member=Component J6 691236510002
+Added Member To Class: ClassName=SCH_onelayer Member=Component J7 691242510007
+Added Member To Class: ClassName=SCH_onelayer Member=Component J8 691242510004
+Added Member To Class: ClassName=SCH_onelayer Member=Component J9 691236510003
+Added Member To Class: ClassName=SCH_onelayer Member=Component J10 691242510004
+Added Member To Class: ClassName=SCH_onelayer Member=Component J11 691236510003
+Added Member To Class: ClassName=SCH_onelayer Member=Component J12 691242510004
+Added Member To Class: ClassName=SCH_onelayer Member=Component XF1 696309001002
+Added Member To Class: ClassName=SCH_onelayer Member=Component XF2 696309001002
+Added Member To Class: ClassName=SCH_onelayer Member=Component XF3 696309001002
+Added Member To Class: ClassName=SCH_onelayer Member=Component XF4 696309001002
+Added Room: Name=SCH_onelayer
