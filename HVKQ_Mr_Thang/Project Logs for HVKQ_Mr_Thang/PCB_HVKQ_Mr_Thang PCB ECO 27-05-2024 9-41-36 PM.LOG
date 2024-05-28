@@ -1,0 +1,206 @@
+Change Component Designator: OldDesignator=*? NewDesignator=*1
+Change Component Designator: OldDesignator=+? NewDesignator=+1
+Change Component Designator: OldDesignator=-? NewDesignator=-1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=DS? NewDesignator=DS1
+Change Component Designator: OldDesignator=DS? NewDesignator=DS2
+Change Component Designator: OldDesignator=DS? NewDesignator=DS3
+Change Component Designator: OldDesignator=DS? NewDesignator=DS4
+Change Component Designator: OldDesignator=DS? NewDesignator=DS5
+Change Component Designator: OldDesignator=DS? NewDesignator=DS6
+Change Component Designator: OldDesignator=DS? NewDesignator=DS7
+Change Component Designator: OldDesignator=I? NewDesignator=I1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP2
+Change Component Designator: OldDesignator=JP? NewDesignator=JP3
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=SOD-? NewDesignator=SOD-1
+Change Component Designator: OldDesignator=SOD-? NewDesignator=SOD-2
+Change Component Designator: OldDesignator=SOD-? NewDesignator=SOD-3
+Change Component Designator: OldDesignator=SOD-? NewDesignator=SOD-4
+Change Component Designator: OldDesignator=SPI? NewDesignator=SPI1
+Change Component Designator: OldDesignator=TP? NewDesignator=TP1
+Change Component Designator: OldDesignator=TP? NewDesignator=TP2
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=UART ? NewDesignator=UART 1
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Change Net Name : Old Net Name=Net+?_2 New Net Name=Net+1_2
+Change Net Name : Old Net Name=Net-?_1 New Net Name=Net-1_1
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetJP?_1 New Net Name=NetJP3_1
+Change Net Name : Old Net Name=NetJP?_2 New Net Name=NetJP2_2
+Change Net Name : Old Net Name=NetJP?_3 New Net Name=NetJP2_3
+Change Net Name : Old Net Name=NetJP?_4 New Net Name=NetJP3_4
+Change Net Name : Old Net Name=NetJP?_5 New Net Name=NetJP1_5
+Change Net Name : Old Net Name=NetJP?_6 New Net Name=NetJP2_6
+Change Net Name : Old Net Name=NetJP?_7 New Net Name=NetJP1_7
+Change Net Name : Old Net Name=NetJP?_8 New Net Name=NetJP3_8
+Change Net Name : Old Net Name=NetJP?_9 New Net Name=NetJP2_9
+Change Net Name : Old Net Name=NetJP?_10 New Net Name=NetJP2_10
+Change Net Name : Old Net Name=NetJP?_11 New Net Name=NetJP2_11
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=U2-33
+Added Pin To Net: NetName=NetC10_1 Pin=Y1-1
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=U1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_1 Pin=R1-1
+Added Net: Name=NetJP1_1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=R4-1
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NetJP1_3 Pin=JP1-3
+Added Pin To Net: NetName=NetJP1_3 Pin=R7-1
+Added Net: Name=NetJP1_3
+Added Pin To Net: NetName=NetJP1_4 Pin=JP1-4
+Added Pin To Net: NetName=NetJP1_4 Pin=R10-1
+Added Net: Name=NetJP1_4
+Added Pin To Net: NetName=NetJP1_8 Pin=JP1-8
+Added Pin To Net: NetName=NetJP1_8 Pin=R22-1
+Added Net: Name=NetJP1_8
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP2_1 Pin=R2-1
+Added Net: Name=NetJP2_1
+Added Pin To Net: NetName=NetJP2_4 Pin=JP2-4
+Added Pin To Net: NetName=NetJP2_4 Pin=R11-1
+Added Net: Name=NetJP2_4
+Added Pin To Net: NetName=NetJP2_5 Pin=JP2-5
+Added Pin To Net: NetName=NetJP2_5 Pin=R14-1
+Added Net: Name=NetJP2_5
+Added Pin To Net: NetName=NetJP2_7 Pin=JP2-7
+Added Pin To Net: NetName=NetJP2_7 Pin=R20-1
+Added Net: Name=NetJP2_7
+Added Pin To Net: NetName=NetJP2_8 Pin=JP2-8
+Added Pin To Net: NetName=NetJP2_8 Pin=R23-1
+Added Net: Name=NetJP2_8
+Added Pin To Net: NetName=NetJP3_2 Pin=JP3-2
+Added Pin To Net: NetName=NetJP3_2 Pin=R6-1
+Added Net: Name=NetJP3_2
+Added Pin To Net: NetName=NetJP3_3 Pin=JP3-3
+Added Pin To Net: NetName=NetJP3_3 Pin=R9-1
+Added Net: Name=NetJP3_3
+Added Pin To Net: NetName=NetJP3_5 Pin=JP3-5
+Added Pin To Net: NetName=NetJP3_5 Pin=R15-1
+Added Net: Name=NetJP3_5
+Added Pin To Net: NetName=NetJP3_7 Pin=JP3-7
+Added Pin To Net: NetName=NetJP3_7 Pin=R21-1
+Added Net: Name=NetJP3_7
+Added Pin To Net: NetName=NetL2_1 Pin=U2-100
+Added Net: Name=NetL2_1
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component ? 430456073736
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component ? 430456073736
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component ? 430456073736
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component ? 430456073736
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component ? 430456073736
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component ? 430456073736
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component ? 430456073736
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component ? 430456073736
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component ? 430456073736
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component C2 10uF, 6.3V
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component C3 10uF, 6.3V
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component C5 10uF, 6.3V
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component C6 10uF, 6.3V
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component C7 10uF, 6.3V
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component C8 10uF, 6.3V
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component C9 10uF, 6.3V
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component C10 10uF, 6.3V
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component C11 10uF, 6.3V
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component DS1 157119S12701
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component DS2 157119S12701
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component DS3 157119S12701
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component DS4 157119S12701
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component DS5 157119S12701
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component DS6 157119S12701
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component JP2 JP11
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component JP3 JP11
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component P1 691311700106
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R1 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R2 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R3 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R4 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R5 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R6 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R7 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R8 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R9 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R10 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R11 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R12 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R13 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R14 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R15 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R16 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R17 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R18 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R19 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R20 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R21 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R22 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R23 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R24 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R25 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R27 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R28 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R29 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R30 2k2
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R31 0
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R32 0
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R33 10k
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R34 10k
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component R35 10k
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component SOD-1 D
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component SOD-2 D
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component SOD-4 D
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component TP2 TP
+Added Member To Class: ClassName=SCH_HVKQ_Mr_THANG Member=Component U1 LM2596
